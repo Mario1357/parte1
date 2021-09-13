@@ -1,0 +1,27 @@
+#img{
+    width: 50%;
+    padding-left: 25%;
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+#timeline{
+    text-align: center;
+}
+
+#cita{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#fecha{
+    font-weight:bold;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+html{
+    background-color:antiquewhite;
+}
